@@ -1,19 +1,28 @@
 # FreeCodeCamp Python Projects
 
-This repository contains five Python projects completed as part of the FreeCodeCamp Python curriculum.
+This repository contains five Python projects completed as part of my FreeCodeCamp Python curriculum.
 
 ## Projects
 
-1. **Budget App** – A budget management application.
-2. **Hash Table** – An implementation of a hash table data structure.
-3. **Polygon Area Calculator** – Calculates area and other properties of geometric shapes.
-4. **Tower of Hanoi Algorithm** – A recursive solution to the Tower of Hanoi problem.
-5. **User Configuration Manager** – Manages user configuration settings.
+### 1. Budget App
+A Python application for managing budgets, tracking deposits and withdrawals, and calculating spending by category.
 
-## Technologies
+### 2. Hash Table
+A Python implementation of a hash table data structure for storing and retrieving key-value pairs.
+
+### 3. Polygon Area Calculator
+A Python program that calculates the area of geometric shapes, including rectangles and squares.
+
+### 4. Tower of Hanoi Algorithm
+A recursive Python solution to the classic Tower of Hanoi puzzle.
+
+### 5. User Configuration Manager
+A Python project for managing and handling user configuration settings.
+
+## Technologies Used
 - Python 3
 
-## Learning Source
-FreeCodeCamp Python Course
+## Learning Platform
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
-These projects represent my Python learning journey and hands-on practice.
+These projects demonstrate my Python programming practice and learning progress.
